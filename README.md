@@ -1,6 +1,6 @@
 ### CosmicFirewall
 
-A work‑in‑progress open hypothesis proposing that the universal speed limit c is an emergent information‑processing limit of reality — the "Cosmic Firewall".
+WIP hypothesis: c as an information‑processing limit — conceptual framework, toy derivations & simulation sketches.
 
 ![Cosmic Firewall hero image](https://static.abacusaicdn.net/images/9d37a08f-35e7-4152-8482-4705a005b9d3.png)
 
